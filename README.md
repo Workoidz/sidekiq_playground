@@ -1,3 +1,5 @@
+After cloning the Repo, run Bundle.
+
 To run Sidekiq :
 bundle exec sidekiq -r ./worker.rb
 
